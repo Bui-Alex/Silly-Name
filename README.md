@@ -1,6 +1,2 @@
 # Silly-Name
-Hello
-My
-Name
-Is
-Alex
+Helllo, My name is Alex and this is my README file 
